@@ -1,4 +1,4 @@
-# Ng LazyLoad Starter
+<!-- # Ng LazyLoad Starter
 
 本项目通过最新版 [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1 创建。
 
@@ -49,3 +49,10 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+-->
+## 项目名称
+Design a list page
+## 项目简介
+Anjular training Day1- design a list page
+## 作者姓名
+zhangyu
